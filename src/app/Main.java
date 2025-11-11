@@ -2,6 +2,7 @@ package app;
 
 import model.Direccion;
 import model.Empleado;
+import model.Persona;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
